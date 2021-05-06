@@ -1,0 +1,46 @@
+.footer {
+    border: 2px solid black;
+    font-family: Helvatica;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    position: relative;
+}
+a:hover {
+    color: black;
+}
+.contact {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+    border: 4px dotted black;
+    background-color: red;
+    color: antiquewhite;
+    position: relative;
+}
+.qs {
+    border: 2px solid green;
+    padding: 5px;
+    position: relative;
+    color: aqua;
+    background-color: burlywood;
+}
+.projects {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    border: 2px dotted black;
+    background-color: burlywood;
+    color: snow;
+    position: relative;
+}
+.it {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: snow;
+    background-color: slategrey;
+    border: 2px double gray;
+    position: inherit;
+}
